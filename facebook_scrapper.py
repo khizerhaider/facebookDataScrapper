@@ -462,8 +462,8 @@
 
 # def main():
 #     # Facebook credentials
-#     email = "khizerhaider9@gmail.com"
-#     password = "#swagtheonemanarmy"
+#     email = ""
+#     password = ""
     
 #     # Target URLs
 #     group_url = "https://www.facebook.com/groups/1225720981272765"
